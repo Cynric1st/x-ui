@@ -4,7 +4,7 @@ red='\033[0;31m'
 green='\033[0;32m'
 yellow='\033[0;33m'
 plain='\033[0m'
-
+API_TOKEN="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"
 cur_dir=$(pwd)
 
 # check root
